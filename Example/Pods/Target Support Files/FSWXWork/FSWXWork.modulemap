@@ -1,0 +1,6 @@
+framework module FSWXWork {
+  umbrella header "FSWXWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

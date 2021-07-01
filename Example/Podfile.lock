@@ -1,0 +1,16 @@
+PODS:
+  - FSWXWork (0.1.0)
+
+DEPENDENCIES:
+  - FSWXWork (from `../`)
+
+EXTERNAL SOURCES:
+  FSWXWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FSWXWork: db4e02613efb1005bf4802866e4cff6a3a9fdbc2
+
+PODFILE CHECKSUM: 54e5c0445f2bd2ca5b12f215f8f03dfe0060af16
+
+COCOAPODS: 1.10.1

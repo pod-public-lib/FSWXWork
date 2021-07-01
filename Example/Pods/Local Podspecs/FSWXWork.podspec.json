@@ -1,0 +1,22 @@
+{
+  "name": "FSWXWork",
+  "version": "0.1.0",
+  "summary": "A short description of FSWXWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/化召鹏/FSWXWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "化召鹏": "Zhaopeng.Hua@five-star.cn"
+  },
+  "source": {
+    "git": "https://github.com/化召鹏/FSWXWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "vendored_frameworks": "FsWXWork.framework"
+}
