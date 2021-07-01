@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FSWXWork'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '封装企业微信分享sdk'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,9 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-0.0.1:
+  0.0.2:
+  修复导入头文件有警告的的问题
+  0.0.1:
   第一个版本
                        DESC
 
