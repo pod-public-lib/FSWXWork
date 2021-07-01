@@ -7,7 +7,8 @@
 //
 
 #import "FSViewController.h"
-#import <FSWXWork/WWKApi.h>
+//#import <FSWXWork/WWKApi.h>
+#import <FsWXWork/FsWXWork.h>
 
 @interface FSViewController ()
 

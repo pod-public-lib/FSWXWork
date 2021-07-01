@@ -15,4 +15,4 @@ FOUNDATION_EXPORT const unsigned char FsWXWorkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <FsWXWork/PublicHeader.h>
 
-
+#import "WWKApi.h"
