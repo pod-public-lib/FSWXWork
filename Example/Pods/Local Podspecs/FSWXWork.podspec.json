@@ -1,8 +1,8 @@
 {
   "name": "FSWXWork",
-  "version": "0.1.0",
-  "summary": "A short description of FSWXWork.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.1",
+  "summary": "封装企业微信分享sdk",
+  "description": "0.0.1:\n  第一个版本",
   "homepage": "https://github.com/化召鹏/FSWXWork",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/化召鹏/FSWXWork.git",
-    "tag": "0.1.0"
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "10.0"

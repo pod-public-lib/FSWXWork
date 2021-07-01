@@ -1,5 +1,5 @@
 PODS:
-  - FSWXWork (0.1.0)
+  - FSWXWork (0.0.1)
 
 DEPENDENCIES:
   - FSWXWork (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FSWXWork: db4e02613efb1005bf4802866e4cff6a3a9fdbc2
+  FSWXWork: 285f31729296d8cd5bdb8f32144c1c19346d4ecd
 
 PODFILE CHECKSUM: 54e5c0445f2bd2ca5b12f215f8f03dfe0060af16
 

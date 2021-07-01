@@ -22,13 +22,15 @@ Pod::Spec.new do |s|
   第一个版本
                        DESC
 
-  s.homepage         = 'https://github.com/化召鹏/FSWXWork'
+  s.homepage         = 'https://github.com/pod-public-lib/FSWXWork.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '化召鹏' => 'Zhaopeng.Hua@five-star.cn' }
-  s.source           = { :git => 'https://github.com/化召鹏/FSWXWork.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pod-public-lib/FSWXWork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
+#  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.ios.deployment_target = '10.0'
 
   s.vendored_frameworks = 'FsWXWork.framework'
